@@ -6,8 +6,10 @@ KatherineJohnson is an website that showcases a biography of one of the most imp
 
 ## Preview
 
-![](https://github.com/anamanuellar/KatherineJohnson/main/previewkj.jpg)
-
 You can view a live demo of the project [here](https://anamanuellar.github.io/KatherineJohnson/)
+
+![](https://github.com/anamanuellar/KatherineJohnson/blob/main/previewkj.jpg?raw=true)
+
+
 
 
